@@ -1,0 +1,6 @@
+.DS_Store
+chromedriver
+twitterHistories/*
+.txt
+.git
+.md
